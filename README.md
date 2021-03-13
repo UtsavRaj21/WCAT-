@@ -1,5 +1,6 @@
 # WCAT-
 Copy data/Read Data /Write data
+
 node script.js filename //----------------read file
 
 node script.js -s filename  //--------- (-s)for remove empty line
